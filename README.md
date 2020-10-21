@@ -1,2 +1,2 @@
 # WeatherReport
-![2](2.png)
+![2](2.PNG)
