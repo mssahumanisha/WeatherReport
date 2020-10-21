@@ -1,0 +1,39 @@
+.jumbotron {
+    background-color: #FFFF00;
+}
+
+label {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
+
+.five-day { /* The five day cards */
+    width: 19%;
+    float: left;
+    margin: 2px;
+}
+
+.lowUV { /* The three possible UV color codes */
+    background-color: greenyellow;
+}
+
+.mediumUV {
+    background-color: yellow;
+}
+
+.highUV {
+    background-color: red;
+    color: white;
+}
+
+.inline-img { /* Displaying the main weather icon inline with the city name and date */
+    display: inline;
+}
+
+.fiveDayImg { /* Weather icons for the 5 day forecast */
+    width: 50px;
+    height: 50px;
+}
